@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> My FirstPage</title>
+</head>
+<body>
+<h1> HOW TO BOIL AN EGG</h1>
+<ol>
+<li> Put eggs in a bowl</li>
+<li> Bring water to boil eggs </li>
+</body>
+</html>
